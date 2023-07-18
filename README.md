@@ -12,9 +12,7 @@ With cloudpedagogy, you'll experience the following key features:
 
 3. **Project-Based Learning:** We believe that hands-on projects are the best way to solidify your understanding of data science concepts. Our platform offers a wide range of project challenges that simulate real-world scenarios. You'll tackle problems, make data-driven decisions, and build practical solutions using the skills you've acquired.
 
-4. **Personalized Learning Path:** We understand that everyone learns at their own pace. Our platform adapts to your needs, allowing you to choose the topics and areas of data science programming that interest you the most. Whether you're a beginner or an experienced practitioner, you can tailor your learning path to suit your goals and aspirations.
-
-5. **Continuous Updates:** The field of health data science is constantly evolving, and we ensure that our platform stays up-to-date with the latest advancements. We regularly update our content, introduce new data sets, and incorporate emerging techniques, so you can stay at the forefront of the health data science landscape.
+4. **Continuous Updates:** The field of health data science is constantly evolving, and we ensure that our platform stays up-to-date with the latest advancements. We regularly update our content, introduce new data sets, and incorporate emerging techniques, so you can stay at the forefront of the health data science landscape.
 
 At cloudpedagogy, we're dedicated to revolutionizing the way you learn health data science. By immersing yourself in a single real-world data set, you'll develop a holistic understanding of data science concepts while honing your data analytics and programming skills. Join our community today and embark on an exhilarating journey that will unlock countless opportunities in the world of health data science!
 
