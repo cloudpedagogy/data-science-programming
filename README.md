@@ -26,5 +26,5 @@ Unlock the power of Python programming, data science, and critical learning skil
 - [Data Analysis with Pandas course](https://github.com/cloudpedagogy/data-analysis-python/blob/main/README.md)
 - [Data Visualisation using Seaborn](https://github.com/cloudpedagogy/data-visualisation-python/blob/main/README.md)
 - [Statistics using Scipy](https://github.com/cloudpedagogy/statistics-python/blob/main/README.md)
--[ Machine learning using scikit-learn](https://github.com/cloudpedagogy/machine-learning-python/blob/main/README.md)
+- [ Machine learning using scikit-learn](https://github.com/cloudpedagogy/machine-learning-python/blob/main/README.md)
 
