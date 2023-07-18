@@ -1,3 +1,5 @@
+# cloudpedagogy
+
 Welcome to cloudpedagogy, where learning health data science knowledge and skills has never been more exciting and efficient! We believe in the power of real-world applications to enhance your understanding of various data science concepts. That's why we have developed an innovative approach that allows you to explore a range of data science programming areas using a single captivating real-world data set.
 
 Our unique learning platform takes you on a thrilling journey through the world of data science, combining hands-on experience with comprehensive learning resources. By focusing on a single real-world data set, you'll gain a deep understanding of how data science techniques can be applied in a variety of domains, from finance and healthcare to marketing and social sciences.
@@ -16,13 +18,13 @@ With cloudpedagogy, you'll experience the following key features:
 
 At cloudpedagogy, we're dedicated to revolutionizing the way you learn health data science. By immersing yourself in a single real-world data set, you'll develop a holistic understanding of data science concepts while honing your data analytics and programming skills. Join our community today and embark on an exhilarating journey that will unlock countless opportunities in the world of health data science!
 
-#Health Data Science Programming outline:
+# Health Data Science Programming outline:
 
--[Introduction to Python Programming](https://github.com/cloudpedagogy/introduction-python/blob/main/README.md)
--[Intermediate course in Python Programming](https://github.com/cloudpedagogy/intermediate-python/blob/main/README.md)
--[Object Orientated Programming with Python](https://github.com/cloudpedagogy/object-oriented-python/blob/main/README.md)
--[Data Analysis with Pandas course](https://github.com/cloudpedagogy/data-analysis-python/blob/main/README.md)
--[Data Visualisation using Seaborn](https://github.com/cloudpedagogy/data-visualisation-python/blob/main/README.md)
--[Statistics using Scipy](https://github.com/cloudpedagogy/statistics-python/blob/main/README.md)
--[Machine learning using scikit-learn](https://github.com/cloudpedagogy/machine-learning-python/blob/main/README.md)
+- [Introduction to Python Programming](https://github.com/cloudpedagogy/introduction-python/blob/main/README.md)
+- [Intermediate course in Python Programming](https://github.com/cloudpedagogy/intermediate-python/blob/main/README.md)
+- [Object Orientated Programming with Python](https://github.com/cloudpedagogy/object-oriented-python/blob/main/README.md)
+- [Data Analysis with Pandas course](https://github.com/cloudpedagogy/data-analysis-python/blob/main/README.md)
+- [Data Visualisation using Seaborn](https://github.com/cloudpedagogy/data-visualisation-python/blob/main/README.md)
+- [Statistics using Scipy](https://github.com/cloudpedagogy/statistics-python/blob/main/README.md)
+-[ Machine learning using scikit-learn](https://github.com/cloudpedagogy/machine-learning-python/blob/main/README.md)
 
