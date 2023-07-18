@@ -18,6 +18,8 @@ At cloudpedagogy, we're dedicated to revolutionizing the way you learn health da
 
 # Health Data Science Programming outline:
 
+Unlock the power of Python programming, data science, and critical learning skills. Let's embark on this exciting adventure together and empower you to achieve your goals in the world of Python and data science!
+
 - [Introduction to Python Programming](https://github.com/cloudpedagogy/introduction-python/blob/main/README.md)
 - [Intermediate course in Python Programming](https://github.com/cloudpedagogy/intermediate-python/blob/main/README.md)
 - [Object Orientated Programming with Python](https://github.com/cloudpedagogy/object-oriented-python/blob/main/README.md)
