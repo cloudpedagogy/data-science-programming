@@ -10,6 +10,8 @@ Welcome to the health data science programming course! We offer a unique and inc
 
 **3. Critical Learning Skills**: We believe that learning how to learn is essential for long-term success. Throughout the course, we emphasize critical learning skills such as problem-solving, logical reasoning, and effective study strategies. You'll develop techniques to overcome challenges, enhance your learning efficiency, and adapt to new concepts and technologies.
 
+**4. Interactive Learning Environment**: We provide an interactive learning environment that promotes engagement and collaboration. Through interactive coding exercises and quizzes
+
 <!---**4. Hands-on Projects and Real-world Applications**: Learning by doing is a core principle of our course. You'll work on hands-on projects that reinforce your Python programming and data science skills. These projects simulate real-world scenarios, allowing you to apply what you've learned to practical problems and build a portfolio of projects that showcase your abilities.
 
 **5. Interactive Learning Environment**: We provide an interactive learning environment that promotes engagement and collaboration. Through interactive coding exercises, quizzes, and discussions, you'll have the opportunity to apply your knowledge, receive immediate feedback, and connect with fellow learners. Our instructors and a supportive community will be there to guide you throughout your learning journey.
