@@ -2,7 +2,7 @@
 
 Welcome to the health data science programming course! We offer a unique and inclusive learning experience that combines Python programming, data science skills, and critical learning techniques. Our course is designed to equip learners with a solid foundation in Python, empower them with essential data science skills, and foster critical thinking and problem-solving abilities.
 
-#Key features of our Python course include:
+# Key features of our Python course include:
 
 **1. Comprehensive Python Programming**: Our course covers Python programming from beginner to advanced levels. Whether you're new to coding or have some experience, we provide a structured learning path that gradually introduces Python concepts, syntax, and best practices. You'll gain proficiency in writing Python code and develop the skills to build robust applications.
 
