@@ -21,8 +21,7 @@ Welcome to the health data science programming course! We offer a unique and inc
 
 # Health Data Science Programming outline:
 
-- [Introduction to Python Programming](https://github.com/cloudpedagogy/introduction-python/blob/main/README.md)
-- [Intermediate course in Python Programming](https://github.com/cloudpedagogy/intermediate-python/blob/main/README.md)
+- [Python Programming](https://github.com/cloudpedagogy/introduction-python/blob/main/README.md)
 - [Object Orientated Programming with Python](https://github.com/cloudpedagogy/object-oriented-python/blob/main/README.md)
 - [Data Analysis with Pandas course](https://github.com/cloudpedagogy/data-analysis-python/blob/main/README.md)
 - [Data Visualisation using Seaborn](https://github.com/cloudpedagogy/data-visualisation-python/blob/main/README.md)
