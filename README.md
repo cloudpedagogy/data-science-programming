@@ -19,7 +19,7 @@ Welcome to the health data science programming course! We offer a unique and inc
 **6. Continuous Learning and Growth**: Learning Python and data science is an ongoing process. Our course encourages continuous learning and growth. We provide additional resources, recommended readings, and access to relevant communities and forums, enabling you to stay updated with the latest trends, techniques, and advancements in Python and data science.--->
 
 
-# Health Data Science Programming outline:
+# Data Science Programming outline:
 
 - [Python Programming](https://github.com/cloudpedagogy/python-programming/blob/main/README.md)
 - [Object Orientated Programming with Python](https://github.com/cloudpedagogy/object-oriented-python/blob/main/README.md)
