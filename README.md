@@ -4,9 +4,9 @@ Welcome to the data science programming course! We offer a unique and inclusive 
 
 # Key features of our Python course include:
 
-**1. Comprehensive Python Programming**: Our course covers Python programming from beginner to advanced levels. Whether you're new to coding or have some experience, we provide a structured learning path that gradually introduces Python concepts, syntax, and best practices. You'll gain proficiency in writing Python code and develop the skills to build robust applications.
+**1. Comprehensive Python Programming**: Our course covers Python programming from beginner to advanced levels. Whether you're new to coding or have some experience, we provide a structured learning path that gradually introduces Python concepts, syntax, and best practices. You'll gain proficiency in writing Python code and develop the skills to build robust applications..
 
-**2. Data Science Skills**: In addition to Python programming, our course incorporates essential data science skills. You'll learn how to manipulate and analyze data using Python libraries such as NumPy, Pandas, and Matplotlib. We'll guide you through exploratory data analysis, data visualization, and statistical modeling techniques, enabling you to derive meaningful insights from data.
+**2. Data Science Skills**: In addition to Python programming, our course incorporates essential data science skills. You'll learn how to manipulate and analyze data using Python libraries such as NumPy, Pandas, and Matplotlib. We'll guide you through exploratory data analysis, data visualization, and statistical modeling techniques etc, enabling you to derive meaningful insights from data.
 
 <!--**3. Critical Learning Skills**: We believe that learning how to learn is essential for long-term success. Throughout the course, we emphasize critical learning skills such as problem-solving, logical reasoning, and effective study strategies. You'll develop techniques to overcome challenges, enhance your learning efficiency, and adapt to new concepts and technologies.--->
 
