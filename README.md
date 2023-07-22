@@ -26,5 +26,6 @@ Welcome to the data science programming course! We offer a unique and inclusive 
 - [Data Analysis with Pandas course](https://github.com/cloudpedagogy/data-analysis-python/blob/main/README.md)
 - [Data Visualisation using Seaborn](https://github.com/cloudpedagogy/data-visualisation-python/blob/main/README.md)
 - [Statistics using Scipy](https://github.com/cloudpedagogy/statistics-python/blob/main/README.md)
-- [ Machine learning using scikit-learn](https://github.com/cloudpedagogy/machine-learning-python/blob/main/README.md)
+- [Machine learning using scikit-learn](https://github.com/cloudpedagogy/machine-learning-python/blob/main/README.md)
+- [Deep Learning with Keras](https://github.com/cloudpedagogy/deep-learning-keras/blob/main/README.md)
 
