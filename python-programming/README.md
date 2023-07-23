@@ -11,13 +11,13 @@ The repository is structured as follows:
  Jupyter Notebooks with step-by-step code implementation for data analysis.
   - [01_Introduction_to_Python.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/python-programming/01_Introduction_to_Python.ipynb)
   - [02_Python_Basics.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/python-programming/02_Python_Basics.ipynb)
-  - [03_Control_Structures.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/03_Control_Structures.ipynb)
-  - [04_Data_Structures.ipynb](https://github.com/cloudpedagogy/introduction-python/blob/main/04_Data_Structures.ipynb)
-  - [05_Functions.ipynb](https://github.com/cloudpedagogy/introduction-python/blob/main/05_Functions.ipynb)
-  - [06_Handling_Errors_and_Exceptions.ipynb](https://github.com/cloudpedagogy/introduction-python/blob/main/06_Handling_Errors_and_Exceptions.ipynb)
-  - [07_Introduction_to_File_I_O.ipynb](https://github.com/cloudpedagogy/introduction-python/blob/main/07_Introduction_to_File_I_O.ipynb)
-  - [08_Python_Libraries_Overview.ipynb](https://github.com/cloudpedagogy/introduction-python/blob/main/08_Python_Libraries_Overview.ipynb)
-  - [09_Working_with_Databases.ipynb](https://github.com/cloudpedagogy/python-programming/blob/main/09_Working_with_Databases.ipynb)
+  - [03_Control_Structures.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/python-programming/03_Control_Structures.ipynb)
+  - [04_Data_Structures.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/python-programming/04_Data_Structures.ipynb)
+  - [05_Functions.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/python-programming/05_Functions.ipynb)
+  - [06_Handling_Errors_and_Exceptions.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/python-programming/06_Handling_Errors_and_Exceptions.ipynb)
+  - [07_Introduction_to_File_I_O.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/python-programming/07_Introduction_to_File_I_O.ipynb)
+  - [08_Python_Libraries_Overview.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/python-programming/08_Python_Libraries_Overview.ipynb)
+  - [09_Working_with_Databases.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/python-programming/09_Working_with_Databases.ipynb)
 
 Books to help understand the concepts:
   - [Programming concepts](https://github.com/cloudpedagogy/books/blob/main/Programming_Concepts.ipynb)
