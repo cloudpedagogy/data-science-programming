@@ -19,7 +19,7 @@ The repository is structured as follows:
   - [08_Best_Practices_and_Storytelling_through_Visualization.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/data-visualisation-seaborn/08_Best_Practices_and_Storytelling_through_Visualization.ipynb)
 
 Books to help understand the concepts:
-  - [Data Visualisation Book](https://github.com/cloudpedagogy/books/blob/main/Data_Visualisation.ipynb)
+  - [Data Visualisation Book](https://github.com/cloudpedagogy/data-science-programming/blob/main/books/Data_Visualisation.ipynb)
 
 ## Why Does this Help with Your Programming Skills?
 Knowing about Introduction to Data Visualization, Customizing Plots in Seaborn, Visualizing Relationships, Distribution Plots, Categorical Data Visualization, Advanced Visualizations with Seaborn, Creating Interactive Visualizations, Best Practices, and Storytelling through Visualization can greatly enhance your programming skills, particularly in the field of data analysis and visualization. Here's how:
