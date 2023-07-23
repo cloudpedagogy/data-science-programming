@@ -9,12 +9,12 @@ The [Pima Indian dataset](https://github.com/cloudpedagogy/books/blob/main/Pima_
 The repository is structured as follows:
 
  Jupyter Notebooks with step-by-step code implementation for data analysis.
-  - [01_Introduction.ipynb](https://github.com/cloudpedagogy/statistics-python/blob/main/01_Introduction.ipynb)
-  - [02_Hypothesis_Testing.ipynb](https://github.com/cloudpedagogy/statistics-python/blob/main/02_Hypothesis_Testing.ipynb)
-  - [03_Correlation.ipynb](https://github.com/cloudpedagogy/statistics-python/blob/main/03_Correlation.ipynb)
-  - [04_Probability_distributions.ipynb](https://github.com/cloudpedagogy/statistics-python/blob/main/04_Probability_distributions.ipynb)
-  - [05_Regression.ipynb](https://github.com/cloudpedagogy/statistics-scipy/blob/main/05_Regression.ipynb)
-  - [06_Nonparametric_Tests.ipynb](https://github.com/cloudpedagogy/statistics-python/blob/main/06_Nonparametric_Tests.ipynb)
+  - [01_Introduction.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/statistics-scipy/01_Introduction.ipynb)
+  - [02_Hypothesis_Testing.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/statistics-scipy/02_Hypothesis_Testing.ipynb)
+  - [03_Correlation.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/statistics-scipy/03_Correlation.ipynb)
+  - [04_Probability_distributions.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/statistics-scipy/04_Probability_distributions.ipynb)
+  - [05_Regression.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/statistics-scipy/05_Regression.ipynb)
+  - [06_Nonparametric_Tests.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/statistics-scipy/06_Nonparametric_Tests.ipynb)
 
 Books to help understand the concepts:
   - [Statistics Book](https://github.com/cloudpedagogy/books/blob/main/Statistics.ipynb)
