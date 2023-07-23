@@ -1,4 +1,4 @@
-# Pima Indian Dataset Analysis: Using SciPy for Statistics
+# Statistics with SciPy
 
 
 ## Dataset Description
