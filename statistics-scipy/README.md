@@ -17,7 +17,7 @@ The repository is structured as follows:
   - [06_Nonparametric_Tests.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/statistics-scipy/06_Nonparametric_Tests.ipynb)
 
 Books to help understand the concepts:
-  - [Statistics Book](https://github.com/cloudpedagogy/books/blob/main/Statistics.ipynb)
+  - [Statistics Book](https://github.com/cloudpedagogy/data-science-programming/blob/main/books/Statistics.ipynb)
 
 ## Why Does this Help with Your Programming Skills?
 Knowing about introduction to statistics using Scipy, hypothesis testing, correlation, probability distributions, linear regression, nonparametric tests, and missing data can greatly enhance your programming skills, especially in the field of data analysis and scientific computing. Here's how:
