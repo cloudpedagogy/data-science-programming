@@ -2,7 +2,7 @@
 
 ## Dataset Description
 
-The [Pima Indian dataset](https://github.com/cloudpedagogy/books/blob/main/Pima_Indian_Dataset.ipynb) is a well-known dataset that contains various health-related measurements of Pima Indian women, such as glucose level, blood pressure, BMI, and diabetes outcome (0 for non-diabetic, 1 for diabetic). It is widely used in the field of [health data science](https://github.com/cloudpedagogy/books/blob/main/Health_Data_Science.ipynb) for exploring classification and predictive modeling techniques.
+The [Pima Indian dataset](https://github.com/cloudpedagogy/data-science-programming/blob/main/books/Pima_Indian_Dataset.ipynb) is a well-known dataset that contains various health-related measurements of Pima Indian women, such as glucose level, blood pressure, BMI, and diabetes outcome (0 for non-diabetic, 1 for diabetic). It is widely used in the field of [health data science](https://github.com/cloudpedagogy/data-science-programming/blob/main/books/Health_Data_Science.ipynb) for exploring classification and predictive modeling techniques.
 
 ## Repository Structure
 The repository is structured as follows:
