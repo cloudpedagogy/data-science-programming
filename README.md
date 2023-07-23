@@ -21,13 +21,13 @@ Welcome to the data science programming course! We offer a unique and inclusive 
 
 # Data Science Programming outline:
 
-- [Python Programming](https://github.com/cloudpedagogy/python-programming/blob/main/README.md)
-- [Object Orientated Programming with Python](https://github.com/cloudpedagogy/object-oriented-python/blob/main/README.md)
-- [Data Analysis with Pandas course](https://github.com/cloudpedagogy/data-analysis-python/blob/main/README.md)
-- [Data Visualisation using Seaborn](https://github.com/cloudpedagogy/data-visualisation-python/blob/main/README.md)
-- [Statistics using Scipy](https://github.com/cloudpedagogy/statistics-python/blob/main/README.md)
-- [Machine learning using scikit-learn](https://github.com/cloudpedagogy/machine-learning-python/blob/main/README.md)
-- [Deep Learning with Keras](https://github.com/cloudpedagogy/deep-learning-keras/blob/main/README.md)
+- [Python Programming](https://github.com/cloudpedagogy/data-science-programming/blob/main/python-programming/README.md)
+- [Object Orientated Programming with Python](https://github.com/cloudpedagogy/data-science-programming/blob/main/object-oriented-python/README.md)
+- [Data Analysis with Pandas course](https://github.com/cloudpedagogy/data-science-programming/blob/main/data-analysis-pandas/README.md)
+- [Data Visualisation using Seaborn](https://github.com/cloudpedagogy/data-science-programming/blob/main/data-visualisation-seaborn/README.md)
+- [Statistics using Scipy](https://github.com/cloudpedagogy/data-science-programming/blob/main/statistics-scipy/README.md)
+- [Machine learning using scikit-learn](https://github.com/cloudpedagogy/data-science-programming/blob/main/machine-learning-scikit-learn/README.md)
+- [Deep Learning with Keras](https://github.com/cloudpedagogy/data-science-programming/blob/main/deep-learning-keras/README.md)
 
 # Our Unique approach
 
