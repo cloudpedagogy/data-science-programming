@@ -1,4 +1,4 @@
-# Pima Indian Dataset Analysis: Using Pandas
+# Dataset Analysis Using Pandas
 
 
 ## Dataset Description
