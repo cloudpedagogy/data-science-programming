@@ -1,4 +1,4 @@
-# Pima Indian Dataset Analysis: Using Sklearn for Machine Learning
+# Machine Learning with Sklearn
 
 
 ## Dataset Description
