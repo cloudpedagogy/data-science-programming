@@ -17,7 +17,7 @@ The repository is structured as follows:
   - [06_Data_Analysis_and_Statistical_Testing.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/data-analysis-pandas/06_Data_Analysis_and_Statistical_Testing.ipynb)
 
 Books to help understand the concepts:
-  - [Data Manipulation Book](https://github.com/cloudpedagogy/books/blob/main/Data_Manipulation.ipynb)
+  - [Data Manipulation Book](https://github.com/cloudpedagogy/data-science-programming/blob/main/books/Data_Manipulation.ipynb)
 
 ## Why Does this Help with Your Programming Skills?
 Pandas is a powerful open-source library for data manipulation and analysis in Python. It provides high-performance, easy-to-use data structures and data analysis tools, making it an essential tool for data scientists and analysts. Here's how pandas can help improve your programming skills:
