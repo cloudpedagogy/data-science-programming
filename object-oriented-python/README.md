@@ -18,7 +18,7 @@ Jupyter Notebooks with step-by-step code implementation for data analysis.
   - [08_Best_Practices_and_Design_Principles.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/object-oriented-python/08_Best_Practices_and_Design_Principles.ipynb)
 
 Books to help understand the concepts:
-  - [Object Orientated Learning Programming Book](https://github.com/cloudpedagogy/books/blob/main/Object_Orientated_Programming.ipynb)
+  - [Object Orientated Learning Programming Book](https://github.com/cloudpedagogy/data-science-programming/blob/main/books/Object_Orientated_Programming.ipynb)
 
 ## Why Does this Help with Your Programming Skills?
 Knowing about Classes and Objects, Inheritance and Polymorphism, Encapsulation and Abstraction, Advanced OOP Concepts, Design Patterns, Error Handling and Exception Handling in OOP, Best Practices, and Design Principles can greatly enhance your programming skills. Here's how each of these concepts and principles contributes to your programming abilities:
