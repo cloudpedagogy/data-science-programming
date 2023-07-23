@@ -8,14 +8,14 @@ The [Pima Indian dataset](https://github.com/cloudpedagogy/books/blob/main/Pima_
 The repository is structured as follows:
 
 Jupyter Notebooks with step-by-step code implementation for data analysis.
-  - [01_Introduction_to_OOP.ipynb](https://github.com/cloudpedagogy/object-oriented-python/blob/main/01_Introduction_to_OOP.ipynb)
-  - [02_Classes_and_Objects.ipynb](https://github.com/cloudpedagogy/object-oriented-python/blob/main/02_Classes_and_Objects.ipynb)
-  - [03_Inheritance_and_Polymorphism.ipynb](https://github.com/cloudpedagogy/object-oriented-python/blob/main/03_Inheritance_and_Polymorphism.ipynb)
-  - [04_Encapsulation_and_Abstraction.ipynb](https://github.com/cloudpedagogy/object-oriented-python/blob/main/04_Encapsulation_and_Abstraction.ipynb)
-  - [05_Advanced_OOP_Concepts.ipynb](https://github.com/cloudpedagogy/object-oriented-python/blob/main/05_Advanced_OOP_Concepts.ipynb)
-  - [06_Design_Patterns.ipynb](https://github.com/cloudpedagogy/object-oriented-python/blob/main/06_Design_Patterns.ipynb)
-  - [07_Error_Handling_and_Exception_Handling_in_OOP.ipynb](https://github.com/cloudpedagogy/object-oriented-python/blob/main/07_Error_Handling_and_Exception_Handling_in_OOP.ipynb)
-  - [08_Best_Practices_and_Design_Principles.ipynb](https://github.com/cloudpedagogy/object-oriented-python/blob/main/08_Best_Practices_and_Design_Principles.ipynb)
+  - [01_Introduction_to_OOP.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/object-oriented-python/01_Introduction_to_OOP.ipynb)
+  - [02_Classes_and_Objects.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/object-oriented-python/02_Classes_and_Objects.ipynb)
+  - [03_Inheritance_and_Polymorphism.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/object-oriented-python/03_Inheritance_and_Polymorphism.ipynb)
+  - [04_Encapsulation_and_Abstraction.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/object-oriented-python/04_Encapsulation_and_Abstraction.ipynb)
+  - [05_Advanced_OOP_Concepts.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/object-oriented-python/05_Advanced_OOP_Concepts.ipynb)
+  - [06_Design_Patterns.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/object-oriented-python/06_Design_Patterns.ipynb)
+  - [07_Error_Handling_and_Exception_Handling_in_OOP.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/object-oriented-python/07_Error_Handling_and_Exception_Handling_in_OOP.ipynb)
+  - [08_Best_Practices_and_Design_Principles.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/object-oriented-python/08_Best_Practices_and_Design_Principles.ipynb)
 
 Books to help understand the concepts:
   - [Object Orientated Learning Programming Book](https://github.com/cloudpedagogy/books/blob/main/Object_Orientated_Programming.ipynb)
