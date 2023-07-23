@@ -1,4 +1,4 @@
-# Pima Indian Dataset Analysis: Deep Learning with Keras
+# Deep Learning with Keras
 
 ## Dataset Description
 
