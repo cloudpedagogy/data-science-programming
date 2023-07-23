@@ -20,7 +20,7 @@ The repository is structured as follows:
   - [09_Advanced Topics in Machine Learning.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/machine-learning-scikit-learn/09_Advanced_Topics_in_Machine_Learning.ipynb)
 
 Books to help understand the concepts:
-  - [Machine Learning Book](https://github.com/cloudpedagogy/books/blob/main/Machine_Learning.ipynb)
+  - [Machine Learning Book](https://github.com/cloudpedagogy/data-science-programming/blob/main/books/Machine_Learning.ipynb)
 
 ## Why Does this Help with Your Programming Skills?
 Knowing how to use Scikit-Learn for various tasks such as data preprocessing, exploratory data analysis (EDA), supervised and unsupervised learning algorithms, model evaluation and validation, and model tuning and hyperparameter optimization can greatly enhance your programming skills in the field of machine learning. Here's how:
