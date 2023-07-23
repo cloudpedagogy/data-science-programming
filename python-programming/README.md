@@ -20,7 +20,7 @@ The repository is structured as follows:
   - [09_Working_with_Databases.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/python-programming/09_Working_with_Databases.ipynb)
 
 Books to help understand the concepts:
-  - [Programming concepts](https://github.com/cloudpedagogy/books/blob/main/Programming_Concepts.ipynb)
+  - [Programming concepts](https://github.com/cloudpedagogy/data-science-programming/blob/main/books/Programming_Concepts.ipynb)
 
 ## Why Does this Help with Your Programming Skills?
 Working on this data analysis project using the Pima Indian dataset can significantly improve your programming skills in the following ways:
