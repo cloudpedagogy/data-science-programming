@@ -9,15 +9,15 @@ The [Pima Indian dataset](https://github.com/cloudpedagogy/books/blob/main/Pima_
 The repository is structured as follows:
 
  Jupyter Notebooks with step-by-step code implementation for data analysis.
-  - [01_Introduction to Machine Learning.ipynb](https://github.com/cloudpedagogy/machine-learning-scikit-learn/blob/main/01_Introduction_to_Machine_Learning.ipynb)
-  - [02_Introduction to Scikit-Learn.ipynb](https://github.com/cloudpedagogy/machine-learning-scikit-learn/blob/main/02_Introduction_to_Scikit_Learn.ipynb)
-  - [03_Data Preprocessing.ipynb](https://github.com/cloudpedagogy/machine-learning-scikit-learn/blob/main/03_Data_Preprocessing.ipynb)
-  - [04_Exploratory Data Analysis (EDA).ipynb](https://github.com/cloudpedagogy/machine-learning-scikit-learn/blob/main/04_Exploratory_Data_Analysis_(EDA).ipynb)
-  - [05_Supervised Learning Algorithms.ipynb](https://github.com/cloudpedagogy/machine-learning-scikit-learn/blob/main/05_Supervised_Learning_Algorithms.ipynb)
-  - [06_Unsupervised Learning Algorithms.ipynb](https://github.com/cloudpedagogy/machine-learning-scikit-learn/blob/main/06_Unsupervised_Learning_Algorithms.ipynb)
-  - [07_Model Evaluation and Validation.ipynb](https://github.com/cloudpedagogy/machine-learning-scikit-learn/blob/main/07_Model_Evaluation_and_Validation.ipynb)
-  - [08_Model Tuning and Hyperparameter Optimization.ipynb](https://github.com/cloudpedagogy/machine-learning-scikit-learn/blob/main/08_Model_Tuning_and_Hyperparameter_Optimization.ipynb)
-  - [09_Advanced Topics in Machine Learning.ipynb](https://github.com/cloudpedagogy/machine-learning-scikit-learn/blob/main/09_Advanced_Topics_in_Machine_Learning.ipynb)
+  - [01_Introduction to Machine Learning.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/machine-learning-scikit-learn/01_Introduction_to_Machine_Learning.ipynb)
+  - [02_Introduction to Scikit-Learn.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/machine-learning-scikit-learn/02_Introduction_to_Scikit_Learn.ipynb)
+  - [03_Data Preprocessing.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/machine-learning-scikit-learn/03_Data_Preprocessing.ipynb)
+  - [04_Exploratory Data Analysis (EDA).ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/machine-learning-scikit-learn/04_Exploratory_Data_Analysis_(EDA).ipynb)
+  - [05_Supervised Learning Algorithms.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/machine-learning-scikit-learn/05_Supervised_Learning_Algorithms.ipynb)
+  - [06_Unsupervised Learning Algorithms.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/machine-learning-scikit-learn/06_Unsupervised_Learning_Algorithms.ipynb)
+  - [07_Model Evaluation and Validation.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/machine-learning-scikit-learn/07_Model_Evaluation_and_Validation.ipynb)
+  - [08_Model Tuning and Hyperparameter Optimization.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/machine-learning-scikit-learn/08_Model_Tuning_and_Hyperparameter_Optimization.ipynb)
+  - [09_Advanced Topics in Machine Learning.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/machine-learning-scikit-learn/09_Advanced_Topics_in_Machine_Learning.ipynb)
 
 Books to help understand the concepts:
   - [Machine Learning Book](https://github.com/cloudpedagogy/books/blob/main/Machine_Learning.ipynb)
