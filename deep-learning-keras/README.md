@@ -8,10 +8,10 @@ The [Pima Indian dataset](https://github.com/cloudpedagogy/books/blob/main/Pima_
 The repository is structured as follows:
 
 Jupyter Notebooks with step-by-step code implementation for data analysis.
-  - [01_Introduction to Keras and Neural Networks.ipynb](https://github.com/cloudpedagogy/deep-learning-keras/blob/main/01_Introduction_to_Keras_and_Neural_Networks.ipynb)
-  - [02_Data Preparation and Model Building.ipynb](https://github.com/cloudpedagogy/deep-learning-keras/blob/main/02_Data_Preparation_and_Model_Building.ipynb)
-  - [03_Model Evaluation and Optimization.ipynb](https://github.com/cloudpedagogy/deep-learning-keras/blob/main/03_Model_Evaluation_and_Optimization.ipynb)
-  - [04_Advanced Topics.ipynb](https://github.com/cloudpedagogy/deep-learning-keras/blob/main/04_Advanced_Topics.ipynb)
+  - [01_Introduction to Keras and Neural Networks.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/deep-learning-keras/01_Introduction_to_Keras_and_Neural_Networks.ipynb)
+  - [02_Data Preparation and Model Building.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/deep-learning-keras/02_Data_Preparation_and_Model_Building.ipynb)
+  - [03_Model Evaluation and Optimization.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/deep-learning-keras/03_Model_Evaluation_and_Optimization.ipynb)
+  - [04_Advanced Topics.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/deep-learning-keras/04_Advanced_Topics.ipynb)
 
 Books to help understand the concepts:
   - [Deep Learning Book](https://github.com/cloudpedagogy/books/blob/main/Deep_Learning.ipynb)
