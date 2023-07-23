@@ -9,14 +9,14 @@ The [Pima Indian dataset](https://github.com/cloudpedagogy/books/blob/main/Pima_
 The repository is structured as follows:
 
   Jupyter Notebooks with step-by-step code implementation for data analysis.
-  - [01_Introduction_to_Data_Visualization.ipynb](https://github.com/cloudpedagogy/data-visualisation-python/blob/main/01_Introduction_to_Data_Visualization.ipynb)
-  - [02_Getting_Started_with_Seaborn.ipynb](https://github.com/cloudpedagogy/data-visualisation-python/blob/main/02_Getting_Started_with_Seaborn.ipynb)
-  - [03_Customizing_Plots_in_Seaborn.ipynb](https://github.com/cloudpedagogy/data-visualisation-python/blob/main/03_Customizing_Plots_in_Seaborn.ipynb)
-  - [04_Visualizing_Relationships.ipynb](https://github.com/cloudpedagogy/data-visualisation-python/blob/main/04_Visualizing_Relationships.ipynb)
-  - [05_Distribution_Plots.ipynb](https://github.com/cloudpedagogy/data-visualisation-python/blob/main/05_Distribution_Plots.ipynb)
-  - [06_Categorical_Data_Visualization.ipynb](https://github.com/cloudpedagogy/data-visualisation-python/blob/main/06_Categorical_Data_Visualization.ipynb)
-  - [07_Advanced_Visualizations_with_Seaborn.ipynb](https://github.com/cloudpedagogy/data-visualisation-python/blob/main/07_Advanced_Visualizations_with_Seaborn.ipynb)
-  - [08_Best_Practices_and_Storytelling_through_Visualization.ipynb](https://github.com/cloudpedagogy/data-visualisation-python/blob/main/08_Best_Practices_and_Storytelling_through_Visualization.ipynb)
+  - [01_Introduction_to_Data_Visualization.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/data-visualisation-seaborn/01_Introduction_to_Data_Visualization.ipynb)
+  - [02_Getting_Started_with_Seaborn.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/data-visualisation-seaborn/02_Getting_Started_with_Seaborn.ipynb)
+  - [03_Customizing_Plots_in_Seaborn.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/data-visualisation-seaborn/03_Customizing_Plots_in_Seaborn.ipynb)
+  - [04_Visualizing_Relationships.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/data-visualisation-seaborn/04_Visualizing_Relationships.ipynb)
+  - [05_Distribution_Plots.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/data-visualisation-seaborn/05_Distribution_Plots.ipynb)
+  - [06_Categorical_Data_Visualization.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/data-visualisation-seaborn/06_Categorical_Data_Visualization.ipynb)
+  - [07_Advanced_Visualizations_with_Seaborn.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/data-visualisation-seaborn/07_Advanced_Visualizations_with_Seaborn.ipynb)
+  - [08_Best_Practices_and_Storytelling_through_Visualization.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/data-visualisation-seaborn/08_Best_Practices_and_Storytelling_through_Visualization.ipynb)
 
 Books to help understand the concepts:
   - [Data Visualisation Book](https://github.com/cloudpedagogy/books/blob/main/Data_Visualisation.ipynb)
