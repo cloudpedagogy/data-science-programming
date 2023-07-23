@@ -58,19 +58,19 @@ This Programming Course is for Teachers and Students who want an immersive and c
 
 ### Educators and Teachers:
 
-Current teachers from all educational levels (primary, secondary, and higher education).
-Aspiring educators interested in integrating programming and computer science concepts into their classrooms.
-Teachers seeking professional development opportunities to enhance their programming skills and teaching techniques.
-Instructors aiming to create engaging coding lessons and projects tailored to their students' needs and interests.
-Those who want to foster critical thinking, problem-solving, and computational skills among their students through programming.
+- Current teachers from all educational levels (primary, secondary, and higher education).
+- Aspiring educators interested in integrating programming and computer science concepts into their classrooms.
+- Teachers seeking professional development opportunities to enhance their programming skills and teaching techniques.
+- Instructors aiming to create engaging coding lessons and projects tailored to their students' needs and interests.
+- Those who want to foster critical thinking, problem-solving, and computational skills among their students through programming.
 
 ### Students:
 
-Middle and high school students passionate about computer science and programming.
-University students pursuing degrees in computer science, education, or related fields.
-Individuals seeking to explore programming as a potential career path or enhance their technical expertise.
-Students who wish to gain a competitive edge in their academic pursuits by developing coding proficiency.
-Those interested in building a strong foundation in programming concepts for future personal or professional endeavors.
+- Middle and high school students passionate about computer science and programming.
+- University students pursuing degrees in computer science, education, or related fields.
+- Individuals seeking to explore programming as a potential career path or enhance their technical expertise.
+- Students who wish to gain a competitive edge in their academic pursuits by developing coding proficiency.
+- Those interested in building a strong foundation in programming concepts for future personal or professional endeavors.
 
 ## Characteristics of the Target Audience:
 
