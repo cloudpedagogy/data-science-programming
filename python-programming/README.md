@@ -9,8 +9,8 @@ The [Pima Indian dataset](https://github.com/cloudpedagogy/books/blob/main/Pima_
 The repository is structured as follows:
 
  Jupyter Notebooks with step-by-step code implementation for data analysis.
-  - [01_Introduction_to_Python.ipynb](https://github.com/cloudpedagogy/introduction-python/blob/main/01_Introduction_to_Python.ipynb)
-  - [02_Python_Basics.ipynb](https://github.com/cloudpedagogy/introduction-python/blob/main/02_Python_Basics.ipynb)
+  - [01_Introduction_to_Python.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/python-programming/01_Introduction_to_Python.ipynb)
+  - [02_Python_Basics.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/02_Python_Basics.ipynb)
   - [03_Control_Structures.ipynb](https://github.com/cloudpedagogy/introduction-python/blob/main/03_Control_Structures.ipynb)
   - [04_Data_Structures.ipynb](https://github.com/cloudpedagogy/introduction-python/blob/main/04_Data_Structures.ipynb)
   - [05_Functions.ipynb](https://github.com/cloudpedagogy/introduction-python/blob/main/05_Functions.ipynb)
