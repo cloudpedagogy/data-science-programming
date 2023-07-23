@@ -1,4 +1,4 @@
-# Pima Indian Dataset Analysis: Data Visualisation Using Seaborn
+# Data Visualisation Using Seaborn
 
 
 ## Dataset Description
