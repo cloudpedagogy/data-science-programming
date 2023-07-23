@@ -1,4 +1,4 @@
-# Pima Indian Dataset Analysis: Object Orientated Programming
+# Object Orientated Programming
 
 ## Dataset Description
 
