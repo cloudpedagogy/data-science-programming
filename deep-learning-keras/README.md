@@ -14,7 +14,7 @@ Jupyter Notebooks with step-by-step code implementation for data analysis.
   - [04_Advanced Topics.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/deep-learning-keras/04_Advanced_Topics.ipynb)
 
 Books to help understand the concepts:
-  - [Deep Learning Book](https://github.com/cloudpedagogy/books/blob/main/Deep_Learning.ipynb)
+  - [Deep Learning Book](https://github.com/cloudpedagogy/data-science-programming/blob/main/books/Deep_Learning.ipynb)
 
 ## Why Does this Help with Your Programming Skills?
 Knowing about deep learning programming skills using Keras can significantly improve your programming skills in the following ways:
