@@ -1,4 +1,4 @@
-# Pima Indian Dataset Analysis: Python Programming
+# Python Programming
 
 
 ## Dataset Description
