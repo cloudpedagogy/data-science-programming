@@ -9,12 +9,12 @@ The [Pima Indian dataset](https://github.com/cloudpedagogy/books/blob/main/Pima_
 The repository is structured as follows:
 
  Jupyter Notebooks with step-by-step code implementation for data analysis.
-  - [01_Introduction to Pandas and Data Import.ipynb](https://github.com/cloudpedagogy/data-analysis-python/blob/main/01_Introduction_to_Pandas_and_Data_Import.ipynb)
-  - [02_Data Cleaning and Preprocessing.ipynb](https://github.com/cloudpedagogy/data-analysis-python/blob/main/02_Data_Cleaning_and_Preprocessing.ipynb)
-  - [03_Data Exploration and Descriptive Statistics.ipynb](https://github.com/cloudpedagogy/data-analysis-python/blob/main/03_Data_Exploration_and_Descriptive_Statistics.ipynb)
-  - [04_Data Filtering and Selection.ipynb](https://github.com/cloudpedagogy/data-analysis-python/blob/main/04_Data_Filtering_and_Selection.ipynb)
-  - [05_Data Transformation and Feature Engineering.ipynb](https://github.com/cloudpedagogy/data-analysis-python/blob/main/05_Data_Transformation_and_Feature_Engineering.ipynb)
-  - [06_Data_Analysis_and_Statistical_Testing.ipynb](https://github.com/cloudpedagogy/data-analysis-python/blob/main/06_Data_Analysis_and_Statistical_Testing.ipynb)
+  - [01_Introduction to Pandas and Data Import.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/data-analysis-pandas/01_Introduction_to_Pandas_and_Data_Import.ipynb)
+  - [02_Data Cleaning and Preprocessing.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/data-analysis-pandas/02_Data_Cleaning_and_Preprocessing.ipynb)
+  - [03_Data Exploration and Descriptive Statistics.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/data-analysis-pandas/03_Data_Exploration_and_Descriptive_Statistics.ipynb)
+  - [04_Data Filtering and Selection.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/data-analysis-pandas/04_Data_Filtering_and_Selection.ipynb)
+  - [05_Data Transformation and Feature Engineering.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/data-analysis-pandas/05_Data_Transformation_and_Feature_Engineering.ipynb)
+  - [06_Data_Analysis_and_Statistical_Testing.ipynb](https://github.com/cloudpedagogy/data-science-programming/blob/main/data-analysis-pandas/06_Data_Analysis_and_Statistical_Testing.ipynb)
 
 Books to help understand the concepts:
   - [Data Manipulation Book](https://github.com/cloudpedagogy/books/blob/main/Data_Manipulation.ipynb)
