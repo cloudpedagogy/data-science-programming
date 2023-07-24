@@ -1,6 +1,6 @@
 # cloudpedagogy
 
-Welcome to the cloudpedagogy data science programming course! We offer a unique and inclusive learning experience that combines Python programming, data science skills, and critical learning techniques. Our course is designed to equip learners with a solid foundation in Python, empower them with essential data science skills, and foster critical thinking and problem-solving abilities.
+Welcome to the cloudpedagogy open source data science programming course! We offer a unique and inclusive learning experience that combines Python programming, data science skills, and critical learning techniques. Our course is designed to equip learners with a solid foundation in Python, empower them with essential data science skills, and foster critical thinking and problem-solving abilities.
 
 # Key features of our Python course include:
 
