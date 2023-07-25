@@ -29,7 +29,7 @@ Welcome to the cloudpedagogy open source data science programming course! We off
 - [Machine learning using scikit-learn](https://github.com/cloudpedagogy/data-science-programming/blob/main/machine-learning-scikit-learn/README.md)
 - [Deep Learning with Keras](https://github.com/cloudpedagogy/data-science-programming/blob/main/deep-learning-keras/README.md)
 
-# Our Unique approach
+# Our approach
 
 In this programming course we use a single dataset for a range of data science skills which can be beneficial for learning for the following reasons:
 
